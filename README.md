@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tmalik1116
-- 👀 I’m interested in software development, especially mobile
+- 👀 I’m interested in software development and AI/ML/DL
 - 🌱 I’m currently learning Kotlin and PyTorch
-- 💞️ I’m looking to collaborate on android applications
+- 💞️ I’m looking to collaborate on android applications and ML projects
 - 📫 How to reach me tmalik2004@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: N/A
