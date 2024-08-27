@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmalik1116
+- 👋 Hi, I’m Talha Malik (@tmalik1116)
 - 👀 I’m interested in software development and AI/ML/DL
 - 🌱 I’m currently learning Kotlin and PyTorch
 - 💞️ I’m looking to collaborate on android applications and ML projects
