@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Talha Malik (@tmalik1116)
 - 👀 I’m interested in software development and AI/ML/DL
-- 🌱 I’m currently learning PyTorch, Go, C#
+- 🌱 I’m currently learning PyTorch, Go, React
 - 💞️ I’m looking to collaborate on android applications and ML projects
 - 📫 How to reach me: tmalik2004@gmail.com
 - 😄 Pronouns: he/him
